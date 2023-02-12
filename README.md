@@ -1,6 +1,6 @@
 # 모바일 필사 애플리케이션 글리
 
-![1](img/glee_2.png)
+![intro](img/glee.png)
 
 ## Project Structure
 
