@@ -9,7 +9,6 @@
 ```
 src
  ┣ 📂adapter
- ┃ ┣ 📜NewSharedWorkAdapter.kt
  ┃ ┣ 📜SampleWorkAdapter.kt
  ┃ ┗ 📜SharedWorkAdapter.kt
  ┣ 📂customFont
@@ -34,20 +33,10 @@ src
  ┃ ┗ 📜WorkModelMyPage.kt
  ┣ 📂paint
  ┃ ┣ 📜CustomView.java
- ┃ ┣ 📜FingerPath.java
- ┃ ┣ 📜PaintView.java
- ┃ ┣ 📜PaintView_backup.java
  ┃ ┗ 📜Stroke.java
- ┣ 📂ui
- ┃ ┣ 📜GridItemDecoration.kt
- ┃ ┣ 📜WorkListMyPageStaggeredViewHolder.kt
- ┃ ┗ 📜WorkListStaggeredViewHolder.kt
  ┣ 📜CanvasActivity.kt
  ┣ 📜EditTextActivity.kt
  ┣ 📜LicenseActivity.kt
  ┣ 📜MainActivity.kt
- ┣ 📜MyGlideModule.kt
- ┣ 📜OpenSourceActivity.kt
  ┣ 📜SplashActivity.kt
- ┗ 📜WorkDetailActivity.kt
 ```
